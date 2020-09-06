@@ -6,7 +6,6 @@ navbar:
     - text: "This is a card"
       icon: fa-github-alt
       href: index.html
-
   right:
     - icon: fa-github
       href: https://github.com/mikaleslie
