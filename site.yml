@@ -1,0 +1,17 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "To: Dad"
+  left:
+    - text: "This is a card"
+      icon: fa-github-alt
+      href: index.html
+
+  right:
+    - icon: fa-github
+      href: https://github.com/mikaleslie
+    - icon: fa-linkedin-square
+      href: https://www.linkedin.com/in/mika-leslie-02283a1b0/
+output:
+  html_document:
+    theme: sandstone
